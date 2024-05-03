@@ -1,6 +1,6 @@
 ### Olá eu sou o Richard Prado ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-prado-680a2413a/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-santos-prado)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richardprado_)
 
 ![RichardPradoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardPradodev&show_icons=true&theme=dracula)
